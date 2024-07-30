@@ -1,1 +1,1 @@
-alter("Hello github.com ....");
+console.log("Hello");
